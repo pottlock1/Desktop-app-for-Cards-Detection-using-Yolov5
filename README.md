@@ -18,5 +18,5 @@
   ```
  * A window will pop as shown...
 ![gui img](https://github.com/pottlock1/Desktop-app-for-Cards-Detection-using-Yolov5/blob/main/github/app_gui.JPG)
-* Click on 'Browse Image' to select an image for prediction and the ewsult will be shown on right side as shown below
+* Click on 'Browse Image' to select an image for prediction and the result will be shown on right side as shown below
 ![gui img](https://github.com/pottlock1/Desktop-app-for-Cards-Detection-using-Yolov5/blob/main/github/result_single.JPG)
