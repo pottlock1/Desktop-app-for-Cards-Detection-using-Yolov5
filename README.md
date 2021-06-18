@@ -12,4 +12,9 @@
  ```sh
  $ pip install -r requirements.txt
  ```
+ * Run main python file for app excecution
+  ```sh
+  $ python main.py
+  ```
+ A window will pop as shown...
  
